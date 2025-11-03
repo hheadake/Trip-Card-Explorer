@@ -1,12 +1,12 @@
-
 import './App.css'
+import TripCard from './components/TripCard'
 
 function App() {
  
 
   return (
     <>
-      <p>Hey there</p>
+     <TripCard/>
     </>
   )
 }
