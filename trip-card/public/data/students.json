@@ -1,0 +1,100 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Иван Иванов",
+      "image": "https://img.freepik.com/free-photo/portrait-young-student-happy-be-back-university_23-2148586577.jpg?semt=ais_hybrid&w=740&q=80",
+      "class": "7Б",
+      "subjects": {
+        "math": {
+          "grades": [5, 6, 4, 5],
+          "avg": 5
+        },
+        "history": {
+          "grades": [6, 5, 5],
+          "avg": 5.33
+        }
+      }
+    },
+    {
+      "id": "2",
+      "name": "Мария Петрова",
+      "image": "https://st2.depositphotos.com/3889193/6374/i/450/depositphotos_63744645-stock-photo-beautiful-student-girl-posing-with.jpg",
+      "class": "7Б",
+      "subjects": {
+        "math": {
+          "grades": [4, 3, 5],
+          "avg": 4
+        },
+        "history": {
+          "grades": [6, 6, 5],
+          "avg": 5.66
+        }
+      }
+    },
+    {
+      "id": "3",
+      "name": "Георги Георгиев",
+      "image": "https://images.squarespace-cdn.com/content/v1/592738c58419c2fe84fbdb81/bf323bf7-bf64-48ef-b618-a2abc704cff3/StudentHeadshots_FirstImpressionsMatter_Homepage_Square.jpg?format=1000w",
+      "class": "7Б",
+      "subjects": {
+        "math": {
+          "grades": [6, 6, 5, 6],
+          "avg": 5.75
+        },
+        "history": {
+          "grades": [5, 4, 5],
+          "avg": 4.66
+        }
+      }
+    },
+    {
+      "id": "4",
+      "name": "Елена Димитрова",
+      "image": "https://t3.ftcdn.net/jpg/05/19/28/86/360_F_519288634_s63DaNmOlYvIX5xPMCoGEX7b5hV72g7J.jpg",
+      "class": "7Б",
+      "subjects": {
+        "math": {
+          "grades": [3, 4, 4],
+          "avg": 3.66
+        },
+        "history": {
+          "grades": [5, 5, 6],
+          "avg": 5.33
+        }
+      }
+    },
+    {
+      "id": "4",
+      "name": "Елена Димитрова",
+      "image": "https://t3.ftcdn.net/jpg/05/19/28/86/360_F_519288634_s63DaNmOlYvIX5xPMCoGEX7b5hV72g7J.jpg",
+      "class": "7Б",
+      "subjects": {
+        "math": {
+          "grades": [3, 4, 4],
+          "avg": 3.66
+        },
+        "history": {
+          "grades": [5, 5, 6],
+          "avg": 5.33
+        }
+      }
+    },
+    {
+      "id": "4",
+      "name": "Елена Димитрова",
+      "image": "https://t3.ftcdn.net/jpg/05/19/28/86/360_F_519288634_s63DaNmOlYvIX5xPMCoGEX7b5hV72g7J.jpg",
+      "class": "7Б",
+      "subjects": {
+        "math": {
+          "grades": [3, 4, 4],
+          "avg": 3.66
+        },
+        "history": {
+          "grades": [5, 5, 6],
+          "avg": 5.33
+        }
+      }
+    }
+  ]
+}
